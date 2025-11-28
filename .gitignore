@@ -29,5 +29,4 @@ desktop.ini
 /checkpoints/*
 !/checkpoints/*.yaml
 /outputs/
-playground
 setup_env.ipynb
